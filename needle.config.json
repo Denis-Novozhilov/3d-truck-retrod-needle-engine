@@ -1,7 +1,7 @@
 {
   "baseUrl": null,
   "buildDirectory": "dist",
-  "assetsDirectory": "assets",
+  "assetsDirectory": "public/3dmeshes/compressed",
   "scriptsDirectory": "src/scripts",
   "codegenDirectory": "src/generated"
 }
